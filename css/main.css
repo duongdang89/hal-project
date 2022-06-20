@@ -347,7 +347,7 @@
 /* SUPPORT */
 .support-customer {
     height: 600px;
-    background-image: url('/img/support-bg.png');
+    background-image: url('../img/support-bg.png');
     background-size: cover;
     padding: 30px 16px;
 }
