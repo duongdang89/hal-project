@@ -1,7 +1,7 @@
 /* HEADER */
 .banner {
     padding-top: 50%;
-    background-image: url('/img/banner\ 2.png');
+    background-image: url('../img/banner\ 2.png');
     background-size: cover!important;
 }
 
